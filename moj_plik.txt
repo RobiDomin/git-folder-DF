@@ -1,0 +1,5 @@
+przykładowe
+linie
+kodu
+
+print("hello world")
